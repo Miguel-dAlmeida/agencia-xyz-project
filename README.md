@@ -29,7 +29,7 @@ Outro ponto relevante é a responsividade da página. Todo o layout foi cuidados
   <img src="./src/images/gif_pagina_agenciaxyz.gif" alt="Gif do resultado final da página" >
 </div>
 
-### [GitHub Pages](https://miguel-dalmeida.github.io/nft-preview-card-component-project/) 
+### [GitHub Pages](https://miguel-dalmeida.github.io/agencia-xyz-project/) 
 
 
 ## __Ferramentas e Tecnologias Utilizadas__
@@ -85,6 +85,9 @@ Além dos novos aprendizados, também reforcei conteúdos já aprendidos, de mod
 - **Alinhamento com margin e auto**: Sanei dúvidas e aprofundei meu entendimento acerca do uso de `margin: auto` para centralizar elementos horizontalmente.  
 - **Tipos de Caixas**: Revisei os comportamentos dos modelos de caixa CSS, como `inline`, `block` e `inline-block`.  
 - **Propriedade text-align**: Estudei novamente o funcionamento de `text-align: center` para alinhamento horizontal, pois senti que não tinha esse conceito 100% apurado.
+
+### Acesse abaixo a página do Notion com as anotações dos aprendizados obtidos neste múdulo:
+[__Notion - Anotações do Módulo Projeto Landing Page com Flex e Grid__](https://gigantic-chef-a6f.notion.site/M-dulo-Projeto-Landing-Page-com-Grid-e-Flex-16ccd10b93ab807ca781e09786ba3535)
 
 ## __Desenvolvimento Contínuo__
 
